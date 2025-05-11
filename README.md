@@ -12,4 +12,4 @@
 ### Dosen Pembimbing:
 
 #### 1. Bu Febri Dwi Irawati, M.Si. (KK BIG DATA)
-#### 2. Bu Mika Alvionita S, M.Si. (KK PEMODELAN dan ANALISIS DATA)
+#### 2. Bu Mika Alvionita S, M.Si. (KK PEMODELAN dan ANALITIK DATA)
