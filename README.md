@@ -3,5 +3,6 @@
 
 Daerah Kajian Penelitian:
 
-![Peta Daerah Penelitian (1)](https://github.com/user-attachments/assets/c2e13583-b5bd-4d80-8c9d-20126fca73b7)
+![Peta Daerah Penelitian (1)](https://github.com/user-attachments/assets/0168db4a-88cf-4184-996d-63875e07462d)
+
 
