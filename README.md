@@ -2,6 +2,7 @@
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/b25110fa-c2e9-4824-b7b6-f42314a58ce4" />
 
 
+Data Penelitian : https://github.com/alberanalafean22/datapenelitian 
 
 Daerah Kajian Penelitian:
 
