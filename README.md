@@ -4,11 +4,3 @@
 
 Data Penelitian : https://github.com/alberanalafean22/datapenelitian 
 
-Daerah Kajian Penelitian:
-
-![Peta Daerah Penelitian (1)](https://github.com/user-attachments/assets/0168db4a-88cf-4184-996d-63875e07462d)
-
-
-![Data Preparation, Data Preprocessing, Feature Extraction](https://colab.research.google.com/drive/1BY6k2sPLspAhDfbhKgrLQEWpXDw3anzi?usp=sharing)
-
-
