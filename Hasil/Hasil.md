@@ -4,6 +4,16 @@
 
 ## Konfigurasi Hyperparameter digunakan
 
+## Rasio Data
+
+| Data     | Persentase    | Jumlah Data     |
+|----------|---------------|-----------------|
+| Train    | 70%           | 706             |
+| Test     | 30%           | 151             |
+| Val      | 30%           | 151             |
+| Total    | 100%          | 10008           |
+
+
 ## Waktu Eksekusi dan Pemakaian GPU
 
 |   Informasi         |   Detail                    |
