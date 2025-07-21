@@ -4,6 +4,10 @@
 
 ## Konfigurasi Hyperparameter digunakan
 
+## Waktu Eksekusi dan Pemakaian GPu
+
+|   Waktu Eksekusi    |   31 menit 44 detik         |
+|   Pemakaian GPU     |   33.471 GB/ 40 GB (83.68%) |
 
 ## Evaluasi Model
 
