@@ -7,6 +7,9 @@
 *  Bu Mika Alvionita S, M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
 ## Data Penelitian 
+
+Dengan area kajian pada Area pathrow 124062 dan 125062 berdasarkan WRS Pathrow Landsat-USGS
+
 *    https://data.mendeley.com/datasets/gxcvefwe2/1
 *    https://www.kaggle.com/datasets/alberanalafean/data-burned-area-landsat-9-toa
 
