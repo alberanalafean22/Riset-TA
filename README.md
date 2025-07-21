@@ -3,8 +3,8 @@
 
 
 ## Dosen Pembimbing
-*  Bu Febri Dwi Irawati, M.Si. (KK Big Data)
-*  Bu Mika Alvionita S, M.Si. (KK Pemodelan dan Analitik Data)
+*  Bu Febri Dwi Irawati, M.Si. (KK Big Data, Prodi Sains Data ITERA)
+*  Bu Mika Alvionita S, M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
 ## Data Penelitian 
 *    https://data.mendeley.com/datasets/gxcvefwe2/1
