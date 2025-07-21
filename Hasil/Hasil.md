@@ -6,6 +6,8 @@
 
 ## Waktu Eksekusi dan Pemakaian GPu
 
+|   Informasi         |   Detail                    |
+|---------------------|-----------------------------|
 |   Waktu Eksekusi    |   31 menit 44 detik         |
 |   Pemakaian GPU     |   33.471 GB/ 40 GB (83.68%) |
 
