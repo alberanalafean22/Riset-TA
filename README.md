@@ -38,3 +38,18 @@ Data yang telah dilakukan preprocessing dan ekstraksi fitur
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18.0-FF6F00?logo=tensorflow)
 
 
+## License
+
+This project uses remote sensing data from **Landsat 9 Top-of-Atmosphere (TOA) Reflectance**, which is provided by the **United States Geological Survey (USGS)** and accessed via **Google Earth Engine (GEE)**.
+
+### Data License
+
+- **Data Source:** [Landsat 9 TOA Reflectance](https://developers.google.com/earth-engine/datasets/catalog/LANDSAT_LC09_C02_T1_TOA)
+- **Access Platform:** [Google Earth Engine](https://earthengine.google.com/)
+- **Data License:** Landsat data is free to use under the **USGS Open Data Policy**.
+- **Usage Terms:** Users are responsible for adhering to [USGS data use guidelines](https://www.usgs.gov/information-policies-and-instructions/usgs-citation-policy) and [Google Earth Engine Terms of Service](https://earthengine.google.com/terms/).
+
+
+
+
+
