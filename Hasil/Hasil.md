@@ -6,12 +6,12 @@
 
 ## Rasio Data
 
-| Data     | Persentase    | Jumlah Data     |
-|----------|---------------|-----------------|
-| Train    | 70%           | 706             |
-| Test     | 30%           | 151             |
-| Val      | 30%           | 151             |
-| Total    | 100%          | 10008           |
+| Data     | Persentase    | Jumlah Data                                  |
+|----------|---------------|----------------------------------------------|
+| Train    | 70%           | 706                                          |
+| Test     | 30%           | 151                                          |
+| Val      | 30%           | 151                                          |
+| Total    | 100%          | 10008 pasangan (multiband dan mask)          |
 
 
 ## Waktu Eksekusi dan Pemakaian GPU
