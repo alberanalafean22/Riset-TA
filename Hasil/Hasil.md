@@ -1,5 +1,10 @@
 # Hasil Penelitian
 
+## Konfigurasi Arsitektur U-Net digunakan
+
+## Konfigurasi Hyperparameter digunakan
+
+
 ## Evaluasi Model
 
 |   Evaluasi Model     |   Nilai    |
@@ -13,4 +18,8 @@
 ## Grafik Accuracy dan Loss Model U-Net
 
 ![prediksibatch4 (1)](https://github.com/user-attachments/assets/460538b0-a9e0-4868-b0a2-d9e4a7b0c55b)
+
+
+## Hasil Prediksi Model U-Net (sebagian) 
+<img width="424" height="790" alt="prediksi (1)" src="https://github.com/user-attachments/assets/a75b182d-0936-4def-9da0-c60e91c0a80a" />
 
