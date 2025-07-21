@@ -2,6 +2,10 @@
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/b25110fa-c2e9-4824-b7b6-f42314a58ce4" />
 
 
+## Dosen Pembimbing
+*  Bu Febri Dwi Irawati, M.Si. (KK Big Data)
+*  Bu Mika Alvionita S, M.Si. (KK Pemodelan dan Analitik Data)
+
 ## Data Penelitian 
 *    https://data.mendeley.com/datasets/gxcvefwe2/1
 *    https://www.kaggle.com/datasets/alberanalafean/data-burned-area-landsat-9-toa
