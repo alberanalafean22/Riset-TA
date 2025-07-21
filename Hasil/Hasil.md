@@ -4,7 +4,7 @@
 
 ## Konfigurasi Hyperparameter digunakan
 
-## Waktu Eksekusi dan Pemakaian GPu
+## Waktu Eksekusi dan Pemakaian GPU
 
 |   Informasi         |   Detail                    |
 |---------------------|-----------------------------|
