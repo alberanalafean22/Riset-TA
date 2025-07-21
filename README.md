@@ -16,7 +16,7 @@ Data yang telah dilakukan preprocessing dan ekstraksi fitur
 *    https://www.kaggle.com/datasets/alberanalafean/data-burned-area-landsat-9-toa
 
 
-## Spesifikasi Perangkat Keras (Colab Pro)
+## Spesifikasi Perangkat Keras
 
 | Spesifikasi   | Detail                             |
 |---------------|------------------------------------|
