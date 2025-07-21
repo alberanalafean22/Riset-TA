@@ -4,3 +4,11 @@
 
 Data Penelitian : https://data.mendeley.com/datasets/gxcvefwe2/1 , https://www.kaggle.com/datasets/alberanalafean/data-burned-area-landsat-9-toa
 
+Library: ![Earth Engine](https://img.shields.io/badge/ee-1.5.24-blue?logo=google-earthengine)
+![Pandas](https://img.shields.io/badge/Pandas-2.2.2-darkgreen?logo=pandas)
+![Folium](https://img.shields.io/badge/Folium-0.19.7-lightgrey?logo=python)
+![Geemap](https://img.shields.io/badge/Geemap-0.35.3-brightgreen?logo=google-earthengine)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.0-orange?logo=matplotlib)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18.0-FF6F00?logo=tensorflow)
+
+
