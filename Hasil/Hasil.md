@@ -1,5 +1,9 @@
 # Hasil Penelitian - SEGMENTASI BURNED AREA MENGGUNAKAN MODEL U-NET PADA CITRA LANDSAT 9 (STUDI KASUS: SUMATERA SELATAN)
 
+## Area Kajian
+![Peta Daerah Penelitian](https://github.com/user-attachments/assets/39aac020-3ba3-41be-8a6a-6f03d7318871)
+
+
 ## Konfigurasi Arsitektur U-Net digunakan
 ![ModelArsitekturUnet (1)](https://github.com/user-attachments/assets/a0d76507-e39e-41e0-b9f5-b8ea56f858f7)
 
