@@ -4,7 +4,7 @@
 
 ## Konfigurasi Hyperparameter digunakan
 |   Konfigurasi        |   Detail                                |
-|---------------------=|-----------------------------------------|
+|----------------------|-----------------------------------------|
 |   Optimizer          |   Adam                                  |
 |   Batch Size         |   4                                     |
 |   Input Size         |   512x512x5                             |
