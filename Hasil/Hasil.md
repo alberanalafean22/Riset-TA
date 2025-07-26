@@ -28,8 +28,7 @@
 |   Informasi         |   Detail                    |
 |---------------------|-----------------------------|
 |   Waktu Eksekusi    |   20 menit 21 detik         |
-|   Pemakaian GPU     |   16.16 GB/ 40 GB (83.68%)  |
-
+|   Pemakaian GPU     |   16.16 GB/ 40 GB           |
 
 
 ## Grafik Accuracy dan Loss Model U-Net
