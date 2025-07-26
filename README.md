@@ -13,7 +13,7 @@ Dengan area kajian pada Area pathrow 124062 dan 125062 berdasarkan WRS Pathrow L
 Data yang telah dilakukan preprocessing dan ekstraksi fitur
 
 *    https://data.mendeley.com/datasets/gxcvefwe2/1
-*    https://www.kaggle.com/datasets/alberanalafean/data-burned-area-landsat-9-toa
+*    https://www.kaggle.com/datasets/alberanalafean/....
 
 
 ## Spesifikasi Perangkat Keras
