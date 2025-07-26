@@ -10,10 +10,8 @@
 
 Dengan area kajian pada Area pathrow 124062 dan 125062 berdasarkan WRS Pathrow Landsat-USGS
 
-Data yang telah dilakukan preprocessing dan ekstraksi fitur
-
-*    https://data.mendeley.com/datasets/gxcvefwe2/1
-*    https://www.kaggle.com/datasets/alberanalafean/....
+Data 
+*    https://drive.google.com/drive/folders/1ARmAhAU57qRaKSMJIG3HXouFA3wnYn8B?usp=sharing (Data for Model, after preprocessing and feature extraction)
 
 
 ## Spesifikasi Perangkat Keras
