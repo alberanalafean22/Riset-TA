@@ -10,8 +10,7 @@
 
 Dengan area kajian pada Area pathrow 124062 dan 125062 berdasarkan WRS Pathrow Landsat-USGS
 
-Data 
-*    https://drive.google.com/drive/folders/1ARmAhAU57qRaKSMJIG3HXouFA3wnYn8B?usp=sharing (Data for Model, after preprocessing and feature extraction)
+Data : https://drive.google.com/drive/folders/1ARmAhAU57qRaKSMJIG3HXouFA3wnYn8B?usp=sharing (Data for Model, after preprocessing and feature extraction)
 
 
 ## Spesifikasi Perangkat Keras
