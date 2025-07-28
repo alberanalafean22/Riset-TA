@@ -8,7 +8,7 @@
 
 
 ## Konfigurasi Arsitektur U-Net digunakan
-![ModelArsitekturUnet (1)](https://github.com/user-attachments/assets/a0d76507-e39e-41e0-b9f5-b8ea56f858f7)
+<img src="https://github.com/user-attachments/assets/a0d76507-e39e-41e0-b9f5-b8ea56f858f7" alt="Peta Daerah Penelitian" width="715"/>
 
 ## Konfigurasi Hyperparameter digunakan
 |   Konfigurasi        |   Detail                                |
