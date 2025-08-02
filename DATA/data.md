@@ -1,7 +1,7 @@
 ## Dataset
 Diperoleh dari Platform GEE diakses melalui google colab pro, berikut link data yang telah dilakukakuna preprocessing dan siap digunakan dalam model U-Net:
-*  ..... (Dalam pengajuan di Mendeley Data)
-*  .... (Sudah dilakukan split data)
+*  https://data.mendeley.com/preview/vvkvbkjk2k?a=460361ae-7592-4009-8db4-37f5b43473a8 (Dalam pengajuan & preview di Mendeley Data)
+*  .... (tersedia direktori file split data)
 
 ## Rasio Data (Split Data)
 
