@@ -47,3 +47,10 @@ data/
         ├── patch_0039_125_mask.tif
         └── ...
 ```
+
+
+## Gambaran Data
+*    Multiband
+![170 124](https://github.com/user-attachments/assets/3828ef1d-924c-4af8-845c-4302cf900850)
+*    Mask
+![170 124 MASK](https://github.com/user-attachments/assets/8e078114-1c85-4f0e-a8ac-53ad2c2f2b57)
