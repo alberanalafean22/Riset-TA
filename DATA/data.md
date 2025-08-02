@@ -1,1 +1,49 @@
+## Dataset
+Diperoleh dari Platform GEE diakses melalui google colab pro, berikut link data yang telah dilakukakuna preprocessing dan siap digunakan dalam model U-Net:
+*  .....
+*  .... (Sudah dilakukan split data)
 
+## Rasio Data (Split Data)
+
+| Data     | Persentase    | Jumlah Data                                  |
+|----------|---------------|----------------------------------------------|
+| Train    | 70%           | 706                                          |
+| Test     | 30%           | 151                                          |
+| Val      | 30%           | 151                                          |
+| Total    | 100%          | 10008 pasangan (multiband dan mask)          |
+
+
+## Direktori Data
+
+```text
+data/
+├── TRAIN/
+│   ├── MULTIBAND/
+│   │   ├── patch_0004_125_multiband.tif
+│   │   ├── patch_0005_124_multiband.tif
+│   │   └── ...
+│   └── MASK/
+│       ├── patch_0004_125_mask.tif
+│       ├── patch_0005_124_mask.tif
+│       └── ...
+│
+├── VAL/
+│   ├── MULTIBAND/
+│   │   ├── patch_0004_124_multiband.tif
+│   │   ├── patch_0005_125_multiband.tif
+│   │   └── ...
+│   └── MASK/
+│       ├── patch_0004_124_mask.tif
+│       ├── patch_0005_125_mask.tif
+│       └── ...
+│
+└── TEST/
+    ├── MULTIBAND/
+    │   ├── patch_0007_124_multiband.tif
+    │   ├── patch_0039_125_multiband.tif
+    │   └── ...
+    └── MASK/
+        ├── patch_0007_124_mask.tif
+        ├── patch_0039_125_mask.tif
+        └── ...
+```
