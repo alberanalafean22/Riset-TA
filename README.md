@@ -6,11 +6,6 @@
 *  Bu Febri Dwi Irawati, M.Si. (KK Big Data, Prodi Sains Data ITERA)
 *  Bu Mika Alvionita S, M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
-## Data Penelitian 
-
-Dengan area kajian pada Area pathrow 124062 dan 125062, data bisa diakses pada link berikut: 
-*  ....
-*  https://data.mendeley.com/preview/vvkvbkjk2k?a=460361ae-7592-4009-8db4-37f5b43473a8 (Dalam pengajuan)
 
 ## Spesifikasi Perangkat Keras
 
