@@ -1,5 +1,5 @@
 ## Dataset
-Diperoleh dari Platform GEE diakses melalui google colab pro, berikut link data yang telah dilakukakuna preprocessing dan siap digunakan dalam model U-Net:
+Diperoleh dari Platform GEE diakses melalui google colab pro, berikut link data yang telah dilakukakun preprocessing dan siap digunakan dalam model U-Net:
 *  https://data.mendeley.com/preview/vvkvbkjk2k?a=460361ae-7592-4009-8db4-37f5b43473a8 (Dalam pengajuan & preview)
 *  https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
 
