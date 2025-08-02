@@ -11,15 +11,15 @@
 <img src="https://github.com/user-attachments/assets/a0d76507-e39e-41e0-b9f5-b8ea56f858f7" alt="Peta Daerah Penelitian" width="715"/>
 
 ## Konfigurasi Hyperparameter digunakan
-|   Konfigurasi        |   Detail                                |
-|----------------------|-----------------------------------------|
-|   Optimizer          |   Adam                                  |
-|   Batch Size         |   4                                     |
-|   Input Size         |   512x512, 5 Channel                    |
-|   Output Size        |   512x512, 1 Channel                    |
-|   Learning Rate      |   0.0001                                |
-|   Epochs             |   200                                   |
-|   Callback           |   Early Stopping dan ReduceLROnPlateau  |
+|   Konfigurasi        |   Detail                                                        |
+|----------------------|-----------------------------------------------------------------|
+|   Optimizer          |   Adam                                                          |
+|   Batch Size         |   4                                                             |
+|   Input Size         |   512x512, 5 Channel (Multiband: NDVI,NBR,False Color Composite |
+|   Output Size        |   512x512, 1 Channel (prediction mask)                          |
+|   Learning Rate      |   0.0001                                                        |
+|   Epochs             |   200                                                           |
+|   Callback           |   Early Stopping dan ReduceLROnPlateau                          |
 
 
 
