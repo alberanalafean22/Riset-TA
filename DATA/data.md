@@ -10,7 +10,7 @@ Diperoleh dari Platform GEE diakses melalui google colab dan telah dilakukan tah
 | Train    | 70%           | 706                                          |
 | Test     | 30%           | 151                                          |
 | Val      | 30%           | 151                                          |
-| Total    | 100%          | 10008 pasangan (multiband dan mask)          |
+| Total    | 100%          | 1008 pasangan (multiband dan mask)          |
 
 
 ## Gambaran Data
