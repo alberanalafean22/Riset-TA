@@ -9,9 +9,8 @@
 ## Data Penelitian 
 
 Dengan area kajian pada Area pathrow 124062 dan 125062 berdasarkan WRS Pathrow Landsat-USGS, data bisa diakses pada link berikut: 
-*  https://data.mendeley.com/preview/vvkvbkjk2k?a=460361ae-7592-4009-8db4-37f5b43473a8
 *  ....
-
+*  https://data.mendeley.com/preview/vvkvbkjk2k?a=460361ae-7592-4009-8db4-37f5b43473a8 (Dalam pengajuan)
 
 ## Spesifikasi Perangkat Keras
 
