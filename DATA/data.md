@@ -52,4 +52,4 @@ data/
 ## Gambaran Data
 Gambar kiri merupakan citra multiband yang menampilkan band komposit false color, sedangkan kanan merupakan citra mask (label/actual/groundtruth) dari citra multiband yang diperoleh dari tresholding dari DNBR
 
-<img width="373" height="133" alt="image" src="https://github.com/user-attachments/assets/2701abca-1880-464f-9b33-74d94cc772a7" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/2701abca-1880-464f-9b33-74d94cc772a7" />
