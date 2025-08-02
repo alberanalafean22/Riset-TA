@@ -33,7 +33,7 @@
 
 Direktori Data dalam model U-Net
 
-
+```text
 data/
 ├── TRAIN/
 │   ├── MULTIBAND/
@@ -64,7 +64,7 @@ data/
         ├── patch_0007_124_mask.tif
         ├── patch_0039_125_mask.tif
         └── ...
-
+```
 
 ## Waktu Eksekusi dan Pemakaian GPU
 
