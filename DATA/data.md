@@ -13,6 +13,12 @@ Diperoleh dari Platform GEE diakses melalui google colab pro, berikut link data 
 | Total    | 100%          | 10008 pasangan (multiband dan mask)          |
 
 
+## Gambaran Data
+Gambar kiri merupakan citra multiband yang menampilkan band komposit false color, sedangkan kanan merupakan citra mask (label/actual/groundtruth) dari citra multiband yang diperoleh dari tresholding dari DNBR
+
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/2701abca-1880-464f-9b33-74d94cc772a7" />
+
+
 ## Direktori Data
 
 ```text
@@ -47,9 +53,3 @@ data/
         ├── patch_0039_125_mask.tif
         └── ...
 ```
-
-
-## Gambaran Data
-Gambar kiri merupakan citra multiband yang menampilkan band komposit false color, sedangkan kanan merupakan citra mask (label/actual/groundtruth) dari citra multiband yang diperoleh dari tresholding dari DNBR
-
-<img height="300" alt="image" src="https://github.com/user-attachments/assets/2701abca-1880-464f-9b33-74d94cc772a7" />
