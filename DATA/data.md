@@ -50,7 +50,4 @@ data/
 
 
 ## Gambaran Data
-*    Multiband
-![170 124](https://github.com/user-attachments/assets/3828ef1d-924c-4af8-845c-4302cf900850)
-*    Mask
-![170 124 MASK](https://github.com/user-attachments/assets/8e078114-1c85-4f0e-a8ac-53ad2c2f2b57)
+<img width="373" height="133" alt="image" src="https://github.com/user-attachments/assets/2701abca-1880-464f-9b33-74d94cc772a7" />
