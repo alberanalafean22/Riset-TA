@@ -48,3 +48,5 @@
 ## Hasil Prediksi Model U-Net (per citra)
 https://github.com/alberanalafean22/Riset-TA/blob/9fb0e7065d18b72ff983fc38db1fb231f0cdbeb4/Hasil/prediksi.png 
 
+
+![Prediksi](prediksi-1.png)
