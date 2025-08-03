@@ -36,9 +36,9 @@
 
 ## Evaluasi Model
 
-|   Evaluasi Model     |   Nilai    |
-|----------------------|------------|
-| Akurasi              | 0.93523    |
+|   Evaluasi Model     |   Nilai    |         |   Evaluasi Model     |   Nilai    |
+|----------------------|------------|         |----------------------|------------|
+| Akurasi              | 0.93523    |         | Akurasi              | 0.93523    |
 | IoU                  | 0.70858    |
 | Dice Coefficient     | 0.82944    |
 | Binary Cross Entropy | 0.18111    |
