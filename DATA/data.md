@@ -28,6 +28,14 @@ Informasi Band disimpan pada citra multiband:
 | 5        | False Color (Band 7) |
 
 
+Kelas Piksel pada citra Mask
+| Nilai piksel               | Kelas                |
+|----------------------------|----------------------|
+| 1 (Piksel berwarna putih)  | Burned Area          |
+| 0 (Piksel berwarna hitam)  | Non-Burned Area      |
+
+
+
 
 ## Direktori Data
 
