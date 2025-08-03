@@ -22,6 +22,17 @@
 |   Callback           |   Early Stopping dan ReduceLROnPlateau                          |
 
 
+## Spesifikasi Perangkat Keras
+
+| Spesifikasi   | Detail                             |
+|---------------|------------------------------------|
+| Akselerator   | A100 GPU (Google Colaboratory Pro) |        
+| CPU CORE      | 8 Core                             |        
+| Tipe GPU      | NVIDIA A100-SXM4                   | 
+| GPU Memory    | 40 GB                              | 
+| RAM           | 83.5 (disediakan colab pro)        | 
+| Disk Space    | 235.7 GB (disediakan colab pro)    | 
+
 
 ## Waktu Eksekusi dan Pemakaian GPU
 
@@ -36,6 +47,7 @@
 
 ## Evaluasi Model
 
+Berikut Evaluasi model menggunakan data testing:
 |   Evaluasi Model     |   Nilai    |
 |----------------------|------------|
 | Akurasi              | 0.93523    |
