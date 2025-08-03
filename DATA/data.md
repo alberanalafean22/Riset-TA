@@ -17,6 +17,17 @@ Gambar kiri merupakan citra multiband yang menampilkan band komposit false color
 
 <img height="300" alt="image" src="https://github.com/user-attachments/assets/2701abca-1880-464f-9b33-74d94cc772a7" />
 
+Informasi Band disimpan pada citra multiband:
+
+| Band     | Informasi disimpan   |
+|----------|----------------------|
+| 1        | NDVI                 |
+| 2        | NBR                  |
+| 3        | False Color (Band 4) |
+| 4        | False Color (Band 5) |
+| 5        | False Color (Band 7) |
+
+
 
 ## Direktori Data
 
