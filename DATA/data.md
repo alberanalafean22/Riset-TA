@@ -22,7 +22,7 @@ Gambar kiri merupakan citra multiband yang menampilkan band komposit false color
 ## Direktori Data
 
 ```text
-data/
+SPLITDATA/
 ├── TRAIN/
 │   ├── MULTIBAND/
 │   │   ├── patch_0004_125_multiband.tif
