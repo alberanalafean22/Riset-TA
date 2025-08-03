@@ -36,9 +36,9 @@
 
 ## Evaluasi Model
 
-|   Evaluasi Model     |   Nilai    |         |   Evaluasi Model     |   Nilai    |
-|----------------------|------------|         |----------------------|------------|
-| Akurasi              | 0.93523    |         | Akurasi              | 0.93523    |
+|   Evaluasi Model     |   Nilai    |
+|----------------------|------------|
+| Akurasi              | 0.93523    |
 | IoU                  | 0.70858    |
 | Dice Coefficient     | 0.82944    |
 | Binary Cross Entropy | 0.18111    |
@@ -46,7 +46,5 @@
 
 
 ## Hasil Prediksi Model U-Net (per citra)
-https://github.com/alberanalafean22/Riset-TA/blob/9fb0e7065d18b72ff983fc38db1fb231f0cdbeb4/Hasil/prediksi.png 
-
 
 ![Prediksi](prediksi-1.png)
