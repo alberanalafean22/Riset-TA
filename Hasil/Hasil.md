@@ -86,7 +86,7 @@ Dalam Proses split data, terdapat beberapa tahapan yang dilakukan sebelum split 
 
 
 ## Model U-Net
-Dilakukan training model menggunakan data yang telah dilakukan split data. 
+Dilakukan training model menggunakan data yang telah dilakukan split data. Model menggunakan hyperparamater diatas, dimana model mengalami penurunan secara konsisten
 
 ### Waktu Eksekusi dan Pemakaian Resource Sistem
 
