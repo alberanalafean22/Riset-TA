@@ -1,4 +1,4 @@
-## Data
+## Data Penelitian
 Diperoleh dari Platform GEE diakses melalui google colab dan telah dilakukan tahapan data preparation dan preprocessing yang bisa dilihat pada direktori code pada github ini, berikut link data yang telah dilakukan preprocessing dan siap digunakan dalam model U-Net:
 *  https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
 
