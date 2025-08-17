@@ -66,13 +66,18 @@
 
 ### 1.Data Preprocessing
 #### A.Koreksi Atmosferik
-#### B.Cloud Masking (QA Bands)
+Proses ini dilakukan untuk menghilangkan perngaruh atmosfer pada nilai reflektansi, proses ini menggunakan metode Dark Object Substraction 
+
+#### B.Cloud Masking
+Proses ini dilakukan untuk menghilangkan pengaruh awan dan bayangan yang dapat mempengaruhi akurasi interpretasi spasial maupun spektral. Cloud masking menggunakan metode QA Bands pada Landsat yaitu QA Pixel.
+
 #### C.Komposit Citra
+Proses ini digunakan untuk menlihat interpretasi citra dengan False Color composite, dimana false color menggunakan 3 kombinasi band yaitu Band 7(SWIR2), Band 5(NIR) dan Band 4 (Red).
 
 ### 2.Ekstraksi Fitur
 #### A.NDVI
 #### B.NBR
-#### CdNBR
+#### C.dNBR
 
 
 ### 3.Masking Citra
