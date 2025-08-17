@@ -116,3 +116,7 @@ Berikut Evaluasi model menggunakan data testing:
 ## Hasil Prediksi Model U-Net (per citra)
 
 ![Prediksi](prediksi-1.png)
+
+## Hasil Penelitian secara lengkap dan detail bisa dicek pada link berikut atau kunjungi Perpustakaan ITERA
+.../link repo/....
+
