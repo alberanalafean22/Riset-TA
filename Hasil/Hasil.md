@@ -65,24 +65,24 @@
 ## Data Preprocessing dan Ekstraksi Fitur
 
 ### 1.Data Preprocessing
-#### A.Koreksi Atmosferik
+#### A. Koreksi Atmosferik
 Proses ini dilakukan untuk menghilangkan perngaruh atmosfer pada nilai reflektansi, proses ini menggunakan metode Dark Object Substraction 
 
-#### B.Cloud Masking
+#### B. Cloud Masking
 Proses ini dilakukan untuk menghilangkan pengaruh awan dan bayangan yang dapat mempengaruhi akurasi interpretasi spasial maupun spektral. Cloud masking menggunakan metode QA Bands pada Landsat yaitu QA Pixel.
 
-#### C.Komposit Citra
-Proses ini digunakan untuk menlihat interpretasi citra dengan False Color composite, dimana false color menggunakan 3 kombinasi band yaitu Band 7(SWIR2), Band 5(NIR) dan Band 4 (Red).
+#### C. Komposit Citra
+Proses ini digunakan untuk menlihat interpretasi citra dengan False Color composite, dimana false color menggunakan 3 kombinasi band yaitu Band 7(SWIR2), Band 5(NIR) dan Band 4 (Red). False color ini yang nantinya merupakan bagian salah satu band pada citra multiband, yang mana citra multiband merupakan inputan citra
 
-### 2.Ekstraksi Fitur
-NDVI, NBR, DNBR
+### 2. Ekstraksi Fitur
+Ekstraksi fitur dilakukan untuk ekstrak fitur citra berupa indeks spektral, ekstraksi fitur digunakan yaitu NDVI, NBR, DNBR. Citra NDVI dan NBR digunakan dalam citra multiband, sedangkan dNBR nantinya digunakan dalam proses masking citra.
 
 
-### 3.Masking Citra
+### 3. Masking Citra
 Masking Citra dilakukan untuk memperoleh citra Mask burned area yang digunakan sebagai label/actual/ground truth pada segmentasi model, citra mask diperoleh dari thresholding nilai pada citra dNBR. Dengan kondisi, ketika nilai dNBR > 0.1 maka dipresentasikan ke piksel berwarna putih (1) dan ketika nilai dNBR < 0.1 maka direpresentasikan ke piksel hitam (0).
 
 
-### 4.Band Stacking
+### 4. Band Stacking
 Band Stacking dilakukan untuk mengabungkan informasi spektral dan indeks menjadi dalam satu represntasi citra multiband. Dalam hal ini, data akan menyimpan 5 band kedalam citra multiband, bandnya berupa : NDVI (1 band), NBR (1 band) dan False Color (3 band) menjadi 1 citra multiband yang menyimpan 5 band
 
 
