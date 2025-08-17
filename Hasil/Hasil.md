@@ -5,6 +5,8 @@
 ## Area Kajian
 <img src="https://github.com/user-attachments/assets/39aac020-3ba3-41be-8a6a-6f03d7318871" alt="Peta Daerah Penelitian" width="715"/>
 
+## Diagram Alir Penelitian
+<img src="https://github.com/user-attachments/assets/a7ea4eaf-6e9f-4fde-8626-7be1821dfd00" alt="flow" width="715"/>
 
 
 ## Konfigurasi Arsitektur U-Net digunakan
@@ -15,7 +17,7 @@
 |----------------------|-----------------------------------------------------------------|
 |   Optimizer          |   Adam                                                          |
 |   Batch Size         |   4                                                             |
-|   Input Size         |   512x512, 5 Channel (Multiband: NDVI,NBR,False Color Composite |
+|   Input Size         |   512x512, 5 Channel (Multiband: NDVI,NBR,False Color Composite)|
 |   Output Size        |   512x512, 1 Channel (prediction mask)                          |
 |   Learning Rate      |   0.0001                                                        |
 |   Epochs             |   200                                                           |
