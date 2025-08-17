@@ -84,7 +84,7 @@ Band Stacking dilakukan untuk mengabungkan informasi spektral dan indeks menjadi
 
 
 
-### 5Split Data
+### 5.Split Data
 Dalam Proses split data, terdapat beberapa tahapan yang dilakukan sebelum split data: Penyeragaman ukuran pathrow citra pada semua citra, clipping raster, image patching, image filtering (filter citra yang layak digunakan) dan baru dilakukan split data. Rasio split data yang digunakan yaitu: Training 70%, Testing 15% dan Validation 15%
 
 
