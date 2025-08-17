@@ -75,9 +75,7 @@ Proses ini dilakukan untuk menghilangkan pengaruh awan dan bayangan yang dapat m
 Proses ini digunakan untuk menlihat interpretasi citra dengan False Color composite, dimana false color menggunakan 3 kombinasi band yaitu Band 7(SWIR2), Band 5(NIR) dan Band 4 (Red).
 
 ### 2.Ekstraksi Fitur
-#### A.NDVI
-#### B.NBR
-#### C.dNBR
+NDVI, NBR, DNBR
 
 
 ### 3.Masking Citra
