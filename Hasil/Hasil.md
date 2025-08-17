@@ -56,14 +56,6 @@
 | Disk Space    | 235.7 GB (disediakan colab pro)    | 
 
 
-## Waktu Eksekusi dan Pemakaian GPU
-
-|   Informasi         |   Detail                    |
-|---------------------|-----------------------------|
-|   Waktu Eksekusi    |   20 menit 21 detik         |
-|   Pemakaian GPU     |   16.16 GB/ 40 GB           |
-
-
 ## Data Preprocessing dan Ekstraksi Fitur
 
 ### 1. Data Preprocessing
@@ -94,6 +86,18 @@ Dalam Proses split data, terdapat beberapa tahapan yang dilakukan sebelum split 
 
 
 ## Model U-Net
+Dilakukan training model menggunakan data yang telah dilakukan split data. 
+
+### Waktu Eksekusi dan Pemakaian Resource Sistem
+
+|   Informasi         |   Detail                    |
+|---------------------|-----------------------------|
+|   Waktu Eksekusi    |   20 menit 21 detik         |
+|   Pemakaian GPU     |   16.68 GB/ 40 GB           |
+|   Pemakaian RAM     |   16.16 GB/ 83.48 GB        |
+|   Pemakaian DISK    |   43.49 GB/ 235.68 GB       |
+
+
 ### Grafik Accuracy dan Loss Model U-Net
 <img width="842" height="274" alt="image" src="https://github.com/user-attachments/assets/4f239ae6-862b-4f06-aee4-761395a08e69" />
 
