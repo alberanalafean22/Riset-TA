@@ -21,8 +21,10 @@
   * Band Stacking
   * Masking Citra
   * Split Data
-    * Clipping Raster
+    * Clipping Raster (Penyeragaman ukuran citra)
     * Image Patching
+    * Image Filtering (Pemilihan citra layak)
+    * Split Data
   * Model U-Net
   * Evaluasi Model  
 
