@@ -8,6 +8,24 @@
 ## Diagram Alir Penelitian
 <img src="https://github.com/user-attachments/assets/a7ea4eaf-6e9f-4fde-8626-7be1821dfd00" alt="flow" width="715"/>
 
+### Tahapan Alur Penelitian
+  * Data Citra Ladnsat 9 (GEE)
+  * Data Preprocessing
+    *  Koreksi Atmosferik (Dark Object Substraction)
+    *  Cloud Masdking (QA Bands)
+    *  Komposit Citra
+  * Ekstraksi Fitur
+    *  NDVI
+    *  NBR
+    *  dNBR
+  * Band Stacking
+  * Masking Citra
+  * Split Data
+    * Clipping Raster
+    * Image Patching
+  * Model U-Net
+  * Evaluasi Model  
+
 
 ## Konfigurasi Arsitektur U-Net digunakan
 <img src="https://github.com/user-attachments/assets/a0d76507-e39e-41e0-b9f5-b8ea56f858f7" alt="Peta Daerah Penelitian" width="715"/>
