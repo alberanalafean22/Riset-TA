@@ -62,7 +62,34 @@
 |   Pemakaian GPU     |   16.16 GB/ 40 GB           |
 
 
-## Grafik Accuracy dan Loss Model U-Net
+## Data Preprocessing dan Ekstraksi Fitur
+
+### Data Preprocessing
+#### Koreksi Atmosferik
+#### Cloud Masking (QA Bands)
+#### Komposit Citra
+
+### Ekstraksi Fitur
+#### NDVI
+#### NBR
+#### dNBR
+
+
+### Masking Citra
+Masking Citra dilakukan untuk memperoleh citra Mask burned area yang digunakan sebagai label/actual/ground truth pada segmentasi model, citra mask diperoleh dari thresholding nilai pada citra dNBR. Dengan kondisi, ketika nilai dNBR > 0.1 maka dipresentasikan ke piksel berwarna putih (1) dan ketika nilai dNBR < 0.1 maka direpresentasikan ke piksel hitam (0).
+
+
+### Band Stacking
+Band Stacking dilakukan untuk mengabungkan informasi spektral dan indeks menjadi dalam satu represntasi citra multiband. Dalam hal ini, data akan menyimpan 5 band kedalam citra multiband, bandnya berupa : NDVI (1 band), NBR (1 band) dan False Color (3 band) menjadi 1 citra multiband yang menyimpan 5 band
+
+
+
+### Split Data
+Dalam Proses split data, terdapat beberapa tahapan yang dilakuan sebelum split data: Penyeragaman ukuran pathrow citra pada semua citra, clipping raster, image patching, image filtering (filter citra yang layak digunakan) dan baru dilakukan split data. Rasio split data yang digunakan yaitu: Training 70%, Testing 15% dan Validation 15%
+
+
+## Model U-Net
+### Grafik Accuracy dan Loss Model U-Net
 <img width="842" height="274" alt="image" src="https://github.com/user-attachments/assets/4f239ae6-862b-4f06-aee4-761395a08e69" />
 
 ## Evaluasi Model
