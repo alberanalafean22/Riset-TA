@@ -9,7 +9,7 @@
 <img src="https://github.com/user-attachments/assets/a7ea4eaf-6e9f-4fde-8626-7be1821dfd00" alt="flow" width="715"/>
 
 ### Tahapan Alur Penelitian
-  * Data Citra Ladnsat 9 (GEE)
+  * Data Citra Ladnsat 9 (Akses GEE)
   * Data Preprocessing
     *  Koreksi Atmosferik (Dark Object Substraction)
     *  Cloud Masdking (QA Bands)
