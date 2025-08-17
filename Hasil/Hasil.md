@@ -64,27 +64,27 @@
 
 ## Data Preprocessing dan Ekstraksi Fitur
 
-### Data Preprocessing
-#### Koreksi Atmosferik
-#### Cloud Masking (QA Bands)
-#### Komposit Citra
+### 1.Data Preprocessing
+#### A.Koreksi Atmosferik
+#### B.Cloud Masking (QA Bands)
+#### C.Komposit Citra
 
-### Ekstraksi Fitur
-#### NDVI
-#### NBR
-#### dNBR
+### 2.Ekstraksi Fitur
+#### A.NDVI
+#### B.NBR
+#### CdNBR
 
 
-### Masking Citra
+### 3.Masking Citra
 Masking Citra dilakukan untuk memperoleh citra Mask burned area yang digunakan sebagai label/actual/ground truth pada segmentasi model, citra mask diperoleh dari thresholding nilai pada citra dNBR. Dengan kondisi, ketika nilai dNBR > 0.1 maka dipresentasikan ke piksel berwarna putih (1) dan ketika nilai dNBR < 0.1 maka direpresentasikan ke piksel hitam (0).
 
 
-### Band Stacking
+### 4.Band Stacking
 Band Stacking dilakukan untuk mengabungkan informasi spektral dan indeks menjadi dalam satu represntasi citra multiband. Dalam hal ini, data akan menyimpan 5 band kedalam citra multiband, bandnya berupa : NDVI (1 band), NBR (1 band) dan False Color (3 band) menjadi 1 citra multiband yang menyimpan 5 band
 
 
 
-### Split Data
+### 5Split Data
 Dalam Proses split data, terdapat beberapa tahapan yang dilakukan sebelum split data: Penyeragaman ukuran pathrow citra pada semua citra, clipping raster, image patching, image filtering (filter citra yang layak digunakan) dan baru dilakukan split data. Rasio split data yang digunakan yaitu: Training 70%, Testing 15% dan Validation 15%
 
 
