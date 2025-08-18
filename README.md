@@ -7,17 +7,6 @@
 *  Bu Mika Alvionita S, M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
 
-## Spesifikasi Perangkat Keras
-
-| Spesifikasi   | Detail                             |
-|---------------|------------------------------------|
-| Akselerator   | A100 GPU (Google Colaboratory Pro) |        
-| CPU CORE      | 8 Core                             |        
-| Tipe GPU      | NVIDIA A100-SXM4                   | 
-| GPU Memory    | 40 GB                              | 
-| RAM           | 83.5 (disediakan colab pro)        | 
-| Disk Space    | 235.7 GB (disediakan colab pro)    | 
-
 
 ## Library
 
