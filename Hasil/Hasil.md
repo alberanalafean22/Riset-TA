@@ -22,7 +22,7 @@
   * Masking Citra
   * Split Data
     * Clipping Raster (Penyeragaman ukuran citra)
-    * Image Patching
+    * Image Patching (Memotong menjadi beberapa patch)
     * Image Filtering (Pemilihan citra layak)
     * Split Data
   * Model U-Net
