@@ -6,8 +6,8 @@
 *  Bu Mika Alvionita S, M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
 ## Hasil dan Data
-Repository ITERA: https://repo.itera.ac.id/depan/submission/SB2509020010
-Dataset: https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
+*  Repository ITERA: https://repo.itera.ac.id/depan/submission/SB2509020010
+*  Dataset: https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
 
 ## Library
 
