@@ -118,5 +118,5 @@ Berikut Evaluasi model menggunakan data testing:
 ![Prediksi](prediksi-1.png)
 
 ## Hasil Penelitian secara lengkap dan detail bisa dicek pada link berikut atau kunjungi Perpustakaan ITERA
-[.../link repo/....](https://repo.itera.ac.id/depan/submission/SB2509020010)
+[Repository ITERA](https://repo.itera.ac.id/depan/submission/SB2509020010)
 
