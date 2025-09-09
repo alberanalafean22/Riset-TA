@@ -16,7 +16,7 @@
 ![Folium](https://img.shields.io/badge/Folium-0.19.7-lightgrey?logo=python)
 ![Geemap](https://img.shields.io/badge/Geemap-0.35.3-brightgreen?logo=google-earthengine)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.0-orange?logo=matplotlib)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18.0-FF6F00?logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18.0-FF6F00?logo=tensorflow) , Etc
 
 
 ## License
