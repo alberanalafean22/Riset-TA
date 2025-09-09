@@ -31,8 +31,8 @@ This project uses remote sensing data from **Landsat 9 Top-of-Atmosphere (TOA) R
 - **Usage Terms:** Users are responsible for adhering to [USGS data use guidelines](https://www.usgs.gov/information-policies-and-instructions/usgs-citation-policy) and [Google Earth Engine Terms of Service](https://earthengine.google.com/terms/).
 
 
-=======================================================================================================================
-ALBER ANALAFEAN
+==================================================================================
+## ALBER ANALAFEAN
 
 
 
