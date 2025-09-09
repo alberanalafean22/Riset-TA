@@ -32,7 +32,7 @@ This project uses remote sensing data from **Landsat 9 Top-of-Atmosphere (TOA) R
 
 
 ==================================================================================
-## ALBER ANALAFEAN
+## ALBER ANALAFEAN  email: alber.121450146@student.iera.ac.id
 
 
 
