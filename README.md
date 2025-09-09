@@ -1,12 +1,13 @@
 # Segmentasi Burned Area menggunakan Model U-Net pada Citra Landsat 9 (Studi Kasus: Sumatera Selatan)
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/b25110fa-c2e9-4824-b7b6-f42314a58ce4" />
 
-
 ## Dosen Pembimbing
 *  Bu Febri Dwi Irawati, M.Si. (KK Big Data, Prodi Sains Data ITERA)
 *  Bu Mika Alvionita S, M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
-
+## Hasil dan Data
+Repository ITERA: https://repo.itera.ac.id/depan/submission/SB2509020010
+Dataset: https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
 
 ## Library
 
