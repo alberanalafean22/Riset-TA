@@ -32,7 +32,7 @@ This project uses remote sensing data from **Landsat 9 Top-of-Atmosphere (TOA) R
 
 
 ==================================================================================
-## For information detail, please contact via email: alber.121450146@student.iera.ac.id
+## For information detail, please contact via email: alber.121450146@student.itera.ac.id
 
 
 
