@@ -10,8 +10,8 @@
 *  Dataset: https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
 
 ## Publikasi Penelitian dan Dataset:
-Prosiding Nasional: https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
-Mendeley Dataset: doi.org/10.17632/cmzg4pshkx.1
+*  Prosiding Nasional: https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
+*  Mendeley Dataset: doi.org/10.17632/cmzg4pshkx.1
 
 ## Library
 
