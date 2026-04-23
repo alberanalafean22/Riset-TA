@@ -11,7 +11,9 @@
 
 ## Publikasi Penelitian dan Dataset:
 *  Prosiding Nasional: https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
-*  Mendeley Dataset: doi.org/10.17632/cmzg4pshkx.1
+*  Mendeley Dataset: https://doi.org/10.17632/cmzg4pshkx.1
+*  Repository ITERA: https://repository.itera.ac.id/depan/submission/SB2509020010
+
 
 ## Library
 
