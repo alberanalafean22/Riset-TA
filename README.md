@@ -8,15 +8,15 @@ Merupakan Project Tugas Akhir yang dikerjakan oleh Alber Analafean-121450146 dal
 *  Bu Mika Alvionita S, S.Si., M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
 ## Dosen Penguji
-*  Bapak Christyan Tamaro Nadeak, S.Si, M.Si.(KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
-*  Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si, M.Si.(KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
+*  Bapak Christyan Tamaro Nadeak, S.Si., M.Si.(KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
+*  Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si., M.Si.(KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
 ## Hasil dan Data
 *  Repository ITERA: https://repo.itera.ac.id/depan/submission/SB2509020010
 *  Dataset: https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
 
-## Publikasi Penelitian dan Dataset:
-*  Prosiding Nasional: https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
+## Penelitian dan Dataset telah terpublikasi di:
+*  Prosiding Nasional Semnastik APRIKOM: https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
 *  Mendeley Dataset: https://doi.org/10.17632/cmzg4pshkx.1
 *  Repository ITERA: https://repository.itera.ac.id/depan/submission/SB2509020010
 
@@ -44,6 +44,6 @@ This project uses remote sensing data from **Landsat 9 Top-of-Atmosphere (TOA) R
 
 
 ==================================================================================
-### For information detail, please contact via email: alber.121450146@student.itera.ac.id or analafeanalber@gmail.com
+### For information detail, please contact via email: analafeanalber@gmail.com
 
 
