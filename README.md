@@ -9,12 +9,9 @@ Merupakan Project Tugas Akhir yang dikerjakan oleh Alber Analafean-121450146 dal
 *  Bu Mika Alvionita S, S.Si., M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
 ### Dosen Penguji
-*  Bapak Christyan Tamaro Nadeak, S.Si., M.Si.(KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
-*  Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si., M.Si.(KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
+*  Bapak Christyan Tamaro Nadeak, S.Si., M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
+*  Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si., M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
-## Hasil dan Data
-*  Repository ITERA: https://repo.itera.ac.id/depan/submission/SB2509020010
-*  Dataset: 
 
 ## Penelitian dan Dataset telah terpublikasi di:
 *  Prosiding Nasional (Indonesia): https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
