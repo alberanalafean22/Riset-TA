@@ -1,9 +1,15 @@
 # Segmentasi Burned Area menggunakan Model U-Net pada Citra Landsat 9 (Studi Kasus: Sumatera Selatan)
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/b25110fa-c2e9-4824-b7b6-f42314a58ce4" />
 
+Merupakan Project Tugas Akhir yang dikerjakan oleh Alber Analafean-121450146 dalam menyelesaikan studi dan memperoleh gelar Sarjana Sains Data (S.Si.D) atau Bachelor of Data Science di Program Studi Sains Data, Fakultas Sains, Institut Teknolog Sumatera. Lulus dengan IPK 3.19 dengan kategori sangat memuaskan.
+
 ## Dosen Pembimbing
-*  Bu Febri Dwi Irawati, M.Si. (KK Big Data, Prodi Sains Data ITERA)
-*  Bu Mika Alvionita S, M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
+*  Bu Febri Dwi Irawati, S.Si., M.Si. (KK Big Data, Prodi Sains Data ITERA)
+*  Bu Mika Alvionita S, S.Si., M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
+
+## Dosen Penguji
+*  Bapak Christyan Tamaro Nadeak, S.Si, M.Si.(KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
+*  Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si, M.Si.(KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
 ## Hasil dan Data
 *  Repository ITERA: https://repo.itera.ac.id/depan/submission/SB2509020010
@@ -38,6 +44,6 @@ This project uses remote sensing data from **Landsat 9 Top-of-Atmosphere (TOA) R
 
 
 ==================================================================================
-## For information detail, please contact via email: alber.121450146@student.itera.ac.id or analafeanalber@gmail.com
+### For information detail, please contact via email: alber.121450146@student.itera.ac.id or analafeanalber@gmail.com
 
 
