@@ -9,6 +9,10 @@
 *  Repository ITERA: https://repo.itera.ac.id/depan/submission/SB2509020010
 *  Dataset: https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
 
+## Publikasi Penelitian dan Dataset:
+Prosiding Nasional: https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
+Mendeley Dataset: doi.org/10.17632/cmzg4pshkx.1
+
 ## Library
 
 ![Earth Engine](https://img.shields.io/badge/ee-1.5.24-blue?logo=google-earthengine)
@@ -32,7 +36,6 @@ This project uses remote sensing data from **Landsat 9 Top-of-Atmosphere (TOA) R
 
 
 ==================================================================================
-## For information detail, please contact via email: alber.121450146@student.itera.ac.id
-
+## For information detail, please contact via email: alber.121450146@student.itera.ac.id or analafeanalber@gmail.com
 
 
