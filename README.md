@@ -3,23 +3,24 @@
 
 Merupakan Project Tugas Akhir yang dikerjakan oleh Alber Analafean-121450146 dalam menyelesaikan studi dan memperoleh gelar Sarjana Sains Data (S.Si.D) atau Bachelor of Data Science di Program Studi Sains Data, Fakultas Sains, Institut Teknolog Sumatera. Lulus dengan IPK 3.19 dengan kategori sangat memuaskan.
 
-## Dosen Pembimbing
+## Dibimbing dan diuji oleh:
+### Dosen Pembimbing
 *  Bu Febri Dwi Irawati, S.Si., M.Si. (KK Big Data, Prodi Sains Data ITERA)
 *  Bu Mika Alvionita S, S.Si., M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
-## Dosen Penguji
+### Dosen Penguji
 *  Bapak Christyan Tamaro Nadeak, S.Si., M.Si.(KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 *  Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si., M.Si.(KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
 
 ## Hasil dan Data
 *  Repository ITERA: https://repo.itera.ac.id/depan/submission/SB2509020010
-*  Dataset: https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
+*  Dataset: 
 
 ## Penelitian dan Dataset telah terpublikasi di:
-*  Prosiding Nasional Semnastik APTIKOM: https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
+*  Prosiding Nasional (Indonesia): https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
 *  Mendeley Dataset: https://doi.org/10.17632/cmzg4pshkx.1
 *  Repository ITERA: https://repository.itera.ac.id/depan/submission/SB2509020010
-
+*  Kaggle: https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
 
 ## Library
 
