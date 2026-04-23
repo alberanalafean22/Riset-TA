@@ -16,7 +16,7 @@ Merupakan Project Tugas Akhir yang dikerjakan oleh Alber Analafean-121450146 dal
 *  Dataset: https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
 
 ## Penelitian dan Dataset telah terpublikasi di:
-*  Prosiding Nasional Semnastik APRIKOM: https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
+*  Prosiding Nasional Semnastik APTIKOM: https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
 *  Mendeley Dataset: https://doi.org/10.17632/cmzg4pshkx.1
 *  Repository ITERA: https://repository.itera.ac.id/depan/submission/SB2509020010
 
