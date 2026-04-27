@@ -9,7 +9,7 @@ Merupakan bagian Project Tugas Akhir yang dikerjakan oleh Alber Analafean dalam 
 *  Bu Mika Alvionita S, S.Si., M.Si. (KK Kecerdasan Komputasional dan Visi, Prodi Sains Data ITERA)
 
 ### Dosen Penguji
-*  Bapak Christyan Tamaro Nadeak, S.Si., M.Si. (KK Pemodelan dan Simulasi Prodi Sains Data ITERA)
+*  Bapak Christyan Tamaro Nadeak, S.Si., M.Si. (KK Pemodelan dan Simulasi, Prodi Sains Data ITERA)
 *  Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si., M.Si. (KK Pemodelan dan Simulasi, Prodi Sains Data ITERA)
 
 
