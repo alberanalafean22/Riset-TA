@@ -5,16 +5,16 @@ Merupakan bagian Project Tugas Akhir yang dikerjakan oleh Alber Analafean dalam 
 
 ## Dibimbing dan diuji oleh:
 ### Dosen Pembimbing
-*  Bu Febri Dwi Irawati, S.Si., M.Si. (KK Big Data, Prodi Sains Data ITERA)
-*  Bu Mika Alvionita S, S.Si., M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
+*  Bu Febri Dwi Irawati, S.Si., M.Si. (KK Kecerdasan Komputasional dan Visi, Prodi Sains Data ITERA)
+*  Bu Mika Alvionita S, S.Si., M.Si. (KK Kecerdasan Komputasional dan Visi, Prodi Sains Data ITERA)
 
 ### Dosen Penguji
-*  Bapak Christyan Tamaro Nadeak, S.Si., M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
-*  Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si., M.Si. (KK Pemodelan dan Analitik Data, Prodi Sains Data ITERA)
+*  Bapak Christyan Tamaro Nadeak, S.Si., M.Si. (KK Pemodelan dan Simulasi Prodi Sains Data ITERA)
+*  Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si., M.Si. (KK Pemodelan dan Simulasi, Prodi Sains Data ITERA)
 
 
 ## Penelitian dan Dataset telah terpublikasi di:
-*  Prosiding Nasional (Indonesia): https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
+*  Prosiding Nasional: https://ojssemnastik2025.aptikomlampung.id/index.php/semnastik2025/article/view/46
 *  Mendeley Dataset: https://doi.org/10.17632/cmzg4pshkx.1
 *  Repository ITERA: https://repository.itera.ac.id/depan/submission/SB2509020010
 *  Kaggle: https://www.kaggle.com/datasets/alberanalafean/burned-area-dataset
