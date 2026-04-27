@@ -3,8 +3,7 @@
 
 Merupakan bagian Project Tugas Akhir yang dikerjakan oleh :
 
-## Alber Analafean 
-## 121450146 - Sains Data ITERA
+## Alber Analafean (121450146 - Sains Data ITERA)
 
 Dikerjakan dalam menyelesaikan studi dan memperoleh gelar Sarjana Sains Data (S.Si.D) atau Bachelor of Data Science di Program Studi Sains Data, Fakultas Sains, Institut Teknolog Sumatera. Lulus dengan IPK 3.19 dengan kategori sangat memuaskan.
 
