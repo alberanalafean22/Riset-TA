@@ -4,13 +4,10 @@
 Merupakan bagian Project Tugas Akhir yang dikerjakan oleh Alber Analafean dalam menyelesaikan studi dan memperoleh gelar Sarjana Sains Data (S.Si.D) atau Bachelor of Data Science di Program Studi Sains Data, Fakultas Sains, Institut Teknolog Sumatera. Lulus dengan IPK 3.19 dengan kategori sangat memuaskan.
 
 ## Dibimbing dan diuji oleh:
-### Dosen Pembimbing
-*  Bu Febri Dwi Irawati, S.Si., M.Si. (KK Kecerdasan Komputasional dan Visi, Prodi Sains Data ITERA)
-*  Bu Mika Alvionita S, S.Si., M.Si. (KK Kecerdasan Komputasional dan Visi, Prodi Sains Data ITERA)
-
-### Dosen Penguji
-*  Bapak Christyan Tamaro Nadeak, S.Si., M.Si. (KK Pemodelan dan Simulasi, Prodi Sains Data ITERA)
-*  Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si., M.Si. (KK Pemodelan dan Simulasi, Prodi Sains Data ITERA)
+*  Dosen Pembimbing 1: Bu Febri Dwi Irawati, S.Si., M.Si. (KK Kecerdasan Komputasional dan Visi, Prodi Sains Data ITERA)
+*  Dosen Pembimbing 2: Bu Mika Alvionita S, S.Si., M.Si. (KK Kecerdasan Komputasional dan Visi, Prodi Sains Data ITERA)
+*  Dosen Penguji 1: Bapak Christyan Tamaro Nadeak, S.Si., M.Si. (KK Pemodelan dan Simulasi, Prodi Sains Data ITERA)
+*  Dosen Penguji 2: Bapak Dr.(Cand.) M.Syamsuddin Wisnubroto, S.Si., M.Si. (KK Pemodelan dan Simulasi, Prodi Sains Data ITERA)
 
 
 ## Penelitian dan Dataset telah terpublikasi di:
