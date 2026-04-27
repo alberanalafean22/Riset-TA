@@ -1,7 +1,12 @@
 # Segmentasi Burned Area menggunakan Model U-Net pada Citra Landsat 9 (Studi Kasus: Sumatera Selatan)
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/b25110fa-c2e9-4824-b7b6-f42314a58ce4" />
 
-Merupakan bagian Project Tugas Akhir yang dikerjakan oleh Alber Analafean dalam menyelesaikan studi dan memperoleh gelar Sarjana Sains Data (S.Si.D) atau Bachelor of Data Science di Program Studi Sains Data, Fakultas Sains, Institut Teknolog Sumatera. Lulus dengan IPK 3.19 dengan kategori sangat memuaskan.
+Merupakan bagian Project Tugas Akhir yang dikerjakan oleh :
+
+## Alber Analafean 
+## 121450146 - Sains Data ITERA
+
+Dikerjakan dalam menyelesaikan studi dan memperoleh gelar Sarjana Sains Data (S.Si.D) atau Bachelor of Data Science di Program Studi Sains Data, Fakultas Sains, Institut Teknolog Sumatera. Lulus dengan IPK 3.19 dengan kategori sangat memuaskan.
 
 ## Dibimbing dan diuji oleh:
 *  Dosen Pembimbing 1: Bu Febri Dwi Irawati, S.Si., M.Si. (KK Kecerdasan Komputasional dan Visi, Prodi Sains Data ITERA)
